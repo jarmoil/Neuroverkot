@@ -43,7 +43,7 @@ Rakenne:
 
 Lisäksi käytettiin:
 - Dropout (ylisovittamisen vähentämiseen)
-- Mahdollisesti Batch Normalization
+- Batch Normalization
 
 ## Tulokset
 
